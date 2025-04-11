@@ -1,0 +1,4 @@
+# Medicine Recommendation System
+This project implements a machine learning-based system that provides personalized medical recommendations based on user-inputted symptoms and medical history. The system analyzes patient data to suggest suitable medications, along with corresponding precautions, recommended workouts, and diet plans. It aims to support users with accessible, data-driven health guidance and reduce the time typically spent on manual diagnosis and prescription suggestions.
+
+The system was trained on a dataset containing over 2,150 patient records, and achieved a prediction accuracy of 91.3% using optimized classification algorithms. A web interface built for the system allows users to enter symptoms and receive tailored recommendations in real time, making the tool both user-friendly and effective in delivering prompt, personalized healthcare suggestions.
